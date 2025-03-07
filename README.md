@@ -1,6 +1,6 @@
 <div align="center">
   <img width="256px" src="https://www.xpand-it.com/wp-content/uploads/2018/09/React-Logo.png">
-  <h1>Cursos realizados de React na Alura!</h1>
+  <h1>Cursos realizados de React na Alura 📘</h1>
 </div>
 </div>
 <p align="right">
@@ -18,8 +18,8 @@
       <td>
         <!-- Link para o Certificado -->
         <a href="https://cursos.alura.com.br/certificate/gustavo-vieira17/react-desenvolvendo-biblioteca-componentes?lang=pt_BR">
-          <h3><a href="https://github.com/GustavoVieiraa/React-Desenvolvendo-uma-biblioteca-de-componentes">React Desenvolvendo Biblioteca Componente</a></h3>
-        </a>
+          <h3><a href="https://github.com/GustavoVieiraa/React-Desenvolvendo-uma-biblioteca-de-componentes">React Desenvolvendo Biblioteca Componente</a> ✅</h3>
+        </a
       </td>
     </tr>
   </table>
