@@ -1,6 +1,12 @@
 <div align="center">
+  <img width="256px" src="https://www.xpand-it.com/wp-content/uploads/2018/09/React-Logo.png">
   <h1>Cursos realizados de React na Alura!</h1>
 </div>
+</div>
+<p align="right">
+  <img loading="lazy" src="http://img.shields.io/static/v1?label=CURSOS%20REALIZADOS:&message=1&color=GREEN&style=for-the-badge"/>
+</p>
+<div>
 <table align="center">
     <tr align="center">
       <td  style="text-align: center;">
