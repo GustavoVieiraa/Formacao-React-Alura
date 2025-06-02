@@ -1,6 +1,6 @@
 <div align="center">
   <img width="256px" src="https://www.xpand-it.com/wp-content/uploads/2018/09/React-Logo.png">
-  <h1>Cursos realizados de React na Alura 📘</h1>
+  <h1>Cursos de React realizados na Alura 📘</h1>
 </div>
 
 <p align="right">
